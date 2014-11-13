@@ -1,7 +1,7 @@
 {
   "name": "angular-quill",
   "main": "angular-quill.js",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "homepage": "https://github.com/axilleasiv/angular-quill",
   "authors": [
     "Achilleas Kiritsakas <akiritsakas@gmail.com>"
